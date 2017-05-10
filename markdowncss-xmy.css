@@ -1,4 +1,11 @@
 .markdown-here-wrapper{font-size:17px;  line-height:30px;}
+img {
+	width:900px;
+	height:500px;
+    margin-left: auto; 
+    margin-right:auto; 
+    display:block;
+}
 pre, code{font-size:14px;  font-family: Roboto, 'Courier New', Consolas, Inconsolata, Courier, monospace;}
 code{margin:0 3px;  padding:0 6px;  white-space: pre-wrap;  background-color:#F8F8F8;  border-radius:2px;  display: inline;}
 pre{font-size:15px;  line-height:20px;}precode{  white-space: pre;  overflow: auto;  border-radius:3px;  padding:5px10px;  display: block !important;}
@@ -26,7 +33,7 @@ h2{font-size:22px;  border-bottom:1px solid #eee;}
 h3{font-size:20px;}
 h4{font-size:18px;}
 h5{font-size:16px;}
-h6{font-size:16px; color:#777;}
+h6{font-size: 14px; text-align:center; color: rgb(136, 136, 136);}/*这个用来显示图片后面的文字说明*/
 table{padding:0;  border-collapse: collapse;  border-spacing:0;  font-size:1em;  font: inherit;  border:0;}
 tbody{margin:0;  padding:0;  border:0;}
 tabletr{border:0;  border-top:1px solid #CCC;  background-color: white;  margin:0;  padding:0;}
